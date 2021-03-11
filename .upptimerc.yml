@@ -25,10 +25,11 @@ status-website:
  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: D4OStatus
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://wiki.d4o.de/resources/assets/D4O-AG-Logo.png
   name: D4O Status
   introTitle: ""
   introMessage: Status der D4O Server
+  theme: dark
   navbar:
     - title: Status
       href: /
