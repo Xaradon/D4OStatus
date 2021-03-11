@@ -4,14 +4,14 @@ repo: D4OStatus # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: D4O Homepage
     url: https://d4o.de
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: D4O Accounting
+    url: https://accounting.d4o-free2play.de/
+  - name: D4O Wiki
+    url: https://wiki.d4o.de/
+  - name: Support System
+    url: https://ticket.d4o.de/
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
