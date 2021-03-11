@@ -6,19 +6,19 @@ repo: D4OStatus # Your GitHub repository name
 sites:
   - name: D4O Homepage
     url: https://d4o.de
-  - name: D4O Accounting
-    url: https://accounting.d4o-free2play.de/
+  - name: Accounting
+    url: https://accounting.d4o-free2play.de
   - name: D4O Wiki
     url: https://wiki.d4o.de/
   - name: Support System
     url: https://ticket.d4o.de/
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+ # - name: Test for HEAD
+ #   method: HEAD
+ #   url: https://www.google.com
+ # - name: Secret Site
+ #   url: $SECRET_SITE
+ # - name: TCP ping
+ #   url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -27,7 +27,7 @@ status-website:
   baseUrl: D4OStatus
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: D4O Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: ""
   introMessage: Status der D4O Server
   navbar:
     - title: Status
