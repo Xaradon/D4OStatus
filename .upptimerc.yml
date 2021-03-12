@@ -8,6 +8,10 @@ sites:
     url: https://d4o.de
   - name: Accounting
     url: https://accounting.d4o-free2play.de
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: D4O Wiki
     url: https://wiki.d4o.de/
   - name: Support System
