@@ -4,21 +4,18 @@
     "url": "https://d4o.de",
     "icon": "https://favicons.githubusercontent.com/d4o.de",
     "slug": "d4-o-homepage",
-    "status": "up",
-    "uptime": "94.64%",
+    "status": "down",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.64%",
-    "uptimeYear": "94.64%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1145,
     "timeDay": 872,
     "timeWeek": 2164,
     "timeMonth": 1145,
     "timeYear": 1145,
-    "dailyMinutesDown": {
-      "2021-03-13": 730,
-      "2021-03-12": 703
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Accounting",
@@ -26,61 +23,52 @@
     "icon": "https://favicons.githubusercontent.com/accounting.d4o-free2play.de",
     "slug": "accounting",
     "status": "up",
-    "uptime": "94.55%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.55%",
-    "uptimeYear": "94.55%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 242,
     "timeDay": 267,
     "timeWeek": 293,
     "timeMonth": 242,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2021-03-13": 730,
-      "2021-03-12": 703
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "D4O Wiki",
     "url": "https://wiki.d4o.de/",
     "icon": "https://favicons.githubusercontent.com/wiki.d4o.de",
     "slug": "d4-o-wiki",
-    "status": "up",
-    "uptime": "94.63%",
+    "status": "down",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.63%",
-    "uptimeYear": "94.63%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1731,
     "timeDay": 1688,
     "timeWeek": 2076,
     "timeMonth": 1731,
     "timeYear": 1731,
-    "dailyMinutesDown": {
-      "2021-03-13": 730,
-      "2021-03-12": 703
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Support System",
     "url": "https://ticket.d4o.de/",
     "icon": "https://favicons.githubusercontent.com/ticket.d4o.de",
     "slug": "support-system",
-    "status": "up",
-    "uptime": "94.63%",
+    "status": "down",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.63%",
-    "uptimeYear": "94.63%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1607,
     "timeDay": 710,
     "timeWeek": 3650,
     "timeMonth": 1607,
     "timeYear": 1607,
-    "dailyMinutesDown": {
-      "2021-03-13": 730,
-      "2021-03-12": 703
-    }
+    "dailyMinutesDown": {}
   }
 ]
