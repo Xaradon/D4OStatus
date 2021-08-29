@@ -58,17 +58,17 @@
     "url": "https://ticket.d4o.de/",
     "icon": "https://favicons.githubusercontent.com/ticket.d4o.de",
     "slug": "support-system",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 1401,
-    "timeWeek": 700,
-    "timeMonth": 719,
-    "timeYear": 793,
+    "time": 794,
+    "timeDay": 1200,
+    "timeWeek": 737,
+    "timeMonth": 727,
+    "timeYear": 794,
     "dailyMinutesDown": {}
   }
 ]
